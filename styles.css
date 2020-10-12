@@ -1,5 +1,5 @@
 body{
-    background: gray;
+    background: #0F292F;
     font-family:Arial, Helvetica, sans-serif;
 }
 
@@ -7,15 +7,27 @@ body{
     display:flex;
     padding:10px;
     margin:10px;
-    background:darkgray;
+    background:#501F3A;
 }
 
 .assignment img {
     width:200px;
-    padding:10px;
+    border:3px solid #14A098;
+    margin-right: 20px;
 }
 
 h1{
-    color: darkred;
+    color: #14A098;
     text-align:center;
 }
+
+p{
+    color: #CCCCCC;
+}
+
+a {
+    text-decoration: none;
+    color: #CB2D6F;
+}
+
+

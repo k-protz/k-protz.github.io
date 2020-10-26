@@ -3,6 +3,10 @@ body{
     font-family:Arial, Helvetica, sans-serif;
 }
 
+.assignments{
+
+}
+
 .assignment{
     display:flex;
     padding:10px;
@@ -13,7 +17,7 @@ body{
     box-shadow: 6px 6px #14a099a9;
 }
 
-.assignment img {
+.assignment img{
     width:200px;
     border:3px solid #14A098;
     margin-right: 20px;
